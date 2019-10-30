@@ -1,7 +1,7 @@
 {
     "name": "mb7/ezphp-mvc",
     "description": "ez MVC for PHP",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "Murat Bastuerk",
