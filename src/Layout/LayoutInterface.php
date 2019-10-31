@@ -29,7 +29,7 @@ interface LayoutInterface
 
     public function setPageTitle(string $pageTitle);
 
-    public function getPageTitle(): string ;
+    public function getPageTitle(): string;
 
     public function appendPageTitle(string $title, string $delimiter = "-");
 

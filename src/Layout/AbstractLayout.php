@@ -134,7 +134,7 @@ abstract class AbstractLayout implements LayoutInterface
      */
     public function getPageTitle(): string
     {
-        return "<title>$this->gageTitle()</title>";
+        return "<title>$this->pageTitle</title>";
     }
 
     /**
